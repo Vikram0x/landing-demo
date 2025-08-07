@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback } from "react";
+import type React from "react";
 
 type Props = {
   level?: 2 | 3 | 4;
@@ -9,7 +10,7 @@ type Props = {
 };
 
 export default function AnchorHeading({ level = 2, id, children }: Props) {
-  const Tag = (`h${level}` as unknown) as keyof JSX.IntrinsicElements;
+  const Tag = (`h${level}` as unknown) as keyof React.JSX.IntrinsicElements;
 
   const copyLink = useCallback(() => {
     const url = `${window.location.origin}${window.location.pathname}#${id}`;
