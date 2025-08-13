@@ -37,10 +37,10 @@ export default function Hero() {
               Start Playing
             </button>
             <Link
-              href="#token"
+              href="https://zealous-rook-259.notion.site/Hedera-PowerPlay-White-Paper-2459062b846880d8b4f0c140ee235929"
               className="inline-flex items-center justify-center rounded-lg border border-white/20 px-5 py-3 font-medium text-white hover:bg-white/10"
             >
-              View Tokenomics
+              View Whitepaper
             </Link>
           </div>
           <div className="mt-12 grid max-w-lg grid-cols-3 gap-6 text-center text-emerald-100">
