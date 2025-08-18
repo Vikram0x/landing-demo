@@ -86,7 +86,7 @@ const Hero: React.FC<HeroProps> = ({ onJoinGame }) => {
             <div className="relative rounded-2xl overflow-hidden shadow-2xl bg-gradient-to-br from-blue-600/20 to-purple-600/20 backdrop-blur-sm border border-white/10">
               <div className="aspect-video">
                 <iframe 
-                  src="https://drive.google.com/file/d/1wzGf2qTNOcx2VqFjnPI6H9bHuocshKN_/preview"
+                  src="https://drive.google.com/file/d/1fGgLtNyET0STYksAZctHMTMPObVyabEZ/preview"
                   className="w-full h-full"
                   allow="autoplay"
                   title="Powerplay Gameplay Video"

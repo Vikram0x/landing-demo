@@ -36,7 +36,7 @@ const Footer: React.FC = () => {
               </a>
               
               <a 
-                href="https://drive.google.com/file/d/1wzGf2qTNOcx2VqFjnPI6H9bHuocshKN_/view"
+                href="https://drive.google.com/file/d/1fGgLtNyET0STYksAZctHMTMPObVyabEZ/view"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-4 py-2 bg-white/10 hover:bg-white/20 backdrop-blur-sm border border-white/20 hover:border-white/40 text-white rounded-lg transition-all duration-300 group"
