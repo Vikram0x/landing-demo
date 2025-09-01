@@ -47,12 +47,14 @@ const Hero: React.FC<HeroProps> = ({ onJoinGame }) => {
               </span>
               <br />
               <span className="text-2xl md:text-4xl lg:text-5xl">
-                Turning Cricket Watching Into AI-Powered Interactive Gameplay
+              AI-Powered Cricket Game
               </span>
             </h1>
             
             <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl">
               Play, Strategize, and Win – Real Cricket, Real Stakes
+              <br />
+              Stop watching and Start Playing
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
